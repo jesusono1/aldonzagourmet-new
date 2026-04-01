@@ -1,0 +1,20 @@
+# Nuxt
+.nuxt
+.output
+dist
+.data
+.nitro
+.cache
+
+# Node
+node_modules
+*.log
+
+# System
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
+!.env.example
