@@ -11,7 +11,30 @@ export default defineNuxtConfig({
 
   modules: [
     '@nuxt/eslint',
+    '@nuxtjs/i18n',
   ],
+
+  i18n: {
+    locales: [
+      { code: 'es', name: 'Español', file: 'es.json' },
+      { code: 'en', name: 'English', file: 'en.json' },
+    ],
+    defaultLocale: 'es',
+    langDir: 'locales',
+    strategy: 'prefix_except_default',
+    detectBrowserLanguage: {
+      useCookie: true,
+      cookieKey: 'i18n_redirected',
+      redirectOn: 'root',
+    },
+    compilation: {
+      strictMessage: false,
+      escapeHtml: false,
+    },
+    bundle: {
+      fullInstall: false,
+    },
+  },
 
   css: ['~/assets/css/tailwind.css'],
 
@@ -22,13 +45,8 @@ export default defineNuxtConfig({
 
   app: {
     head: {
-      htmlAttrs: { lang: 'es' },
       charset: 'utf-8',
       viewport: 'width=device-width, initial-scale=1',
-      title: 'Aldonza Gourmet - Vinos, Aceite, Azafrán, Cava y Queso Manchego',
-      meta: [
-        { name: 'description', content: 'Aldonza Gourmet - Productos gourmet de la Dehesa de Navamarín, Munera (Albacete). Vinos, AOVE, azafrán, cava y queso manchego DOP.' },
-      ],
     },
   },
 

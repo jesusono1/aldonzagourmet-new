@@ -1,4 +1,18 @@
 @import "tailwindcss";
+@import "@fontsource/montserrat/300.css";
+@import "@fontsource/montserrat/400.css";
+@import "@fontsource/montserrat/500.css";
+@import "@fontsource/montserrat/700.css";
+@import "@fontsource/montserrat/800.css";
+@import "@fontsource/yeseva-one/400.css";
+
+@font-face {
+  font-family: "Pennellino";
+  src: url("~/assets/fonts/pennellino-webfont.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 
 @theme {
   /* Paleta Aldonza Gourmet */

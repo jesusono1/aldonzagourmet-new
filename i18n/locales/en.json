@@ -1,0 +1,48 @@
+{
+  "nav": {
+    "finca": "The Estate",
+    "productos": "Products",
+    "experiencias": "Experiences",
+    "blog": "Blog",
+    "tienda": "Shop",
+    "contacto": "Contact",
+    "tierra": "The Land",
+    "bodega": "The Winery",
+    "almazara": "The Mill",
+    "azafran_sala": "Saffron Room",
+    "queseria": "Cheese Dairy",
+    "vino": "Wine",
+    "aceite": "Olive Oil",
+    "azafran": "Saffron",
+    "cava": "Cava",
+    "queso": "Manchego Cheese",
+    "enoturismo": "Wine Tourism",
+    "oleoturismo": "Oil Tourism",
+    "ruta_cervantina": "Cervantes Route",
+    "recetario": "Recipes",
+    "escucha": "Listen to Aldonza"
+  },
+  "meta": {
+    "home": {
+      "title": "Aldonza Gourmet | Wines, Cava, Olive Oil and Saffron",
+      "description": "Wine, cava, olive oil and saffron, Spanish gourmet products made in the Dehesa de Navamarín. Own winery and mill with wine and oil tourism and visits. Live the Aldonza experience!"
+    }
+  },
+  "home": {
+    "hero_alt": "Come visit our winery and mill. Make your reservation here!",
+    "slogan": "Awaken sensations",
+    "intro": "Appreciating the subtlety of every movement that nature gives us is the origin of the sensations that our wines, cavas, extra virgin olive oil and saffron will awaken in you.",
+    "intro_finca": "The environment is what makes the difference in our products. Welcome to the Dehesa de Navamarín.",
+    "escucha_intro": "Transport yourself through music to new places that will awaken new sensations. Simply listen and let yourself go!",
+    "experiencia_continua": "The Experience continues...",
+    "newsletter_titulo": "Subscribe to our newsletter",
+    "newsletter_enviado": "You have subscribed successfully!"
+  },
+  "common": {
+    "footer_copyright": "All rights reserved.",
+    "direccion": "Crta. N-430 Km 462,3 · 02612 Munera (Albacete) · Spain",
+    "telefono": "(+34) 967 21 77 11",
+    "telefono_2": "(+34) 660 634 959",
+    "email": "info{'@'}aldonzagourmet.com"
+  }
+}

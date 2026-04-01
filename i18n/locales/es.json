@@ -1,0 +1,543 @@
+{
+  "nav": {
+    "finca": "La Finca",
+    "productos": "Productos",
+    "experiencias": "Experiencias",
+    "blog": "Blog",
+    "tienda": "Tienda",
+    "contacto": "Contacto",
+    "tierra": "La Tierra",
+    "bodega": "La Bodega",
+    "almazara": "La Almazara",
+    "azafran_sala": "Sala de Azafrán",
+    "queseria": "Quesería",
+    "vino": "Vino",
+    "aceite": "Aceite",
+    "azafran": "Azafrán",
+    "cava": "Cava",
+    "queso": "Queso Manchego",
+    "enoturismo": "Enoturismo",
+    "oleoturismo": "Oleoturismo",
+    "ruta_cervantina": "Ruta Cervantina",
+    "recetario": "Recetario",
+    "escucha": "Escucha Aldonza"
+  },
+  "meta": {
+    "home": {
+      "title": "Aldonza Gourmet | Vinos, Cavas, Aceite de Oliva y Azafrán",
+      "description": "Vino, cava, aceite de oliva y azafrán, productos gourmet españoles elaborados en la Dehesa de Navamarín. Bodega y almazara propia con visitas de enoturismo y oleoturismo. ¡Vive la experiencia Aldonza!"
+    },
+    "finca_tierra": {
+      "title": "Aldonza Gourmet | Bienvenido a la finca Dehesa de Navamarín",
+      "description": "Tierra de viñedos, olivos y azafranales con condiciones idóneas para el cultivo del vino, aceite de oliva y azafrán. Esencia de los productos Aldonza Gourmet elaborados en la finca Dehesa de Navamarín."
+    },
+    "finca_bodega": {
+      "title": "Bodega exportadora de vino con tradición | Aldonza",
+      "description": "Bodega española familiar de Albacete, tierra de Don Quijote. Tradición agrícola e innovación para elaborar vinos que despiertan nuevas sensaciones. ¡Descubre nuestras jornadas de enoturismo!"
+    },
+    "elaboracion_cava": {
+      "title": "Método tradicional de elaboración de cava",
+      "description": "Conoce la elaboración del cava paso a paso. En Aldonza Gourmet, mantenemos vivo el método tradicional de elaboración de los vinos espumosos españoles."
+    },
+    "elaboracion_vino": {
+      "title": "Elaboración del vino paso a paso",
+      "description": "El proceso de elaboración del vino con todas sus fases. Aldonza Gourmet extrae la grandeza de la uva para elaborar vinos de primera clase. ¡Conoce el proceso!"
+    },
+    "finca_almazara": {
+      "title": "Almazara Aldonza Gourmet | Aceite de Oliva Virgen Extra",
+      "description": "Tradición familiar y tecnología. En nuestra almazara, trabajamos con delicadeza la aceituna para garantizar un aceite de oliva virgen extra de máxima calidad. ¡Estamos en la tierra de Don Quijote!"
+    },
+    "elaboracion_aceite": {
+      "title": "Elaboración del aceite de oliva",
+      "description": "Fases de la elaboración del aceite de oliva virgen extra. La tradición convive con la modernidad de la almazara Aldonza Gourmet para producir aceite de oliva de gran calidad."
+    },
+    "finca_azafran": {
+      "title": "Azafranal de La Mancha | Azafrán Aldonza Gourmet",
+      "description": "En nuestros campos y modernas instalaciones, cultivamos, seleccionamos y envasamos artesanalmente el azafrán de hebra Aldonza. Con Denominación de Origen La Mancha."
+    },
+    "elaboracion_azafran": {
+      "title": "Proceso de elaboración del azafrán",
+      "description": "El proceso de elaboración del azafrán en hebras es tan delicado como los estigmas rojos de su flor. El azafrán Aldonza Gourmet se elabora respetando este trabajo milenario."
+    },
+    "productos": {
+      "title": "Productos gourmet españoles | Aldonza Gourmet",
+      "description": "Vino, cava, aceite de oliva virgen extra y azafrán. Productos gourmet españoles con calidad y sabor, elaborados por Aldonza Gourmet en La Dehesa de Navamarín. ¡Despiertan nuevas sensaciones!"
+    },
+    "productos_vino": {
+      "title": "Vinos Aldonza Gourmet | Tierra de Don Quijote",
+      "description": "Vinos Aldonza Gourmet, la huella de la tradición vinícola de la tierra de Don Quijote. Vinos con pasión, con alma. Elaborados a partir de varietales de uva francesa y española. ¿Todavía no los conoces?"
+    },
+    "productos_aceite": {
+      "title": "Aceite de Oliva Virgen Extra | Aldonza Gourmet",
+      "description": "El aceite de oliva virgen extra Aldonza expresa todo el sabor de las varietales de aceituna Picual y Arbequina. 100% Virgen Extra. Exportación internacional. Es el resultado de la pasión por un oficio."
+    },
+    "productos_azafran": {
+      "title": "Azafrán de La Mancha | Aldonza Gourmet",
+      "description": "Azafrán español con Denominación de Origen La Mancha, reconocimiento de calidad mundial. Azafrán en hebras Aldonza Gourmet, pequeños detalles que marcan la diferencia."
+    },
+    "productos_cava": {
+      "title": "Cava Aldonza Gourmet | D.O. Vinos Espumosos",
+      "description": "Levaduras propias y seleccionadas con rigor que otorgan personalidad propia a las cuatro variedades de vinos espumosos Aldonza Gourmet. Cava con D.O. Vinos Espumosos, cultivado en la comarca del Penedés."
+    },
+    "premios_vino": {
+      "title": "Premios del Vino | Aldonza Gourmet",
+      "description": "Premios del vino. Los vinos tintos y el vino blanco Aldonza Gourmet han sido reconocidos con premios internacionales y críticas de los mejores sumillers."
+    },
+    "premios_aceite": {
+      "title": "Premios del Aceite | Aldonza Gourmet",
+      "description": "El aceite de oliva virgen extra Aldonza Gourmet está avalado por reconocimientos internacionales en diversos certámenes de aceite de oliva."
+    },
+    "premios_cava": {
+      "title": "Premios del Cava | Aldonza Gourmet",
+      "description": "Los cavas Aldonza Gourmet son vinos espumosos reconocidos internacionalmente por prestigiosos premios. Consulta aquí lista."
+    },
+    "beneficios_vino": {
+      "title": "Beneficios del Vino | Propiedades para la salud",
+      "description": "El consumo moderado del vino aporta una amplía lista de beneficios y propiedades para la salud. En esta lista puedes consultar las cualidades del vino."
+    },
+    "beneficios_azafran": {
+      "title": "Beneficios del azafrán | Propiedades para la salud",
+      "description": "Mucho más que una especia. Aquí tienes el listado de los beneficios y propiedades del azafrán. Respaldado por estudios científicos."
+    },
+    "beneficios_cava": {
+      "title": "Beneficios del Cava | Propiedades para la salud",
+      "description": "Descubre los beneficios del cava para la salud. Mucho más que sabor y burbujas. Consulta aquí la lista de propiedades del cava."
+    },
+    "experiencias": {
+      "title": "La experiencia Aldonza | Más que enoturismo y oleoturismo",
+      "description": "Enoturismo, oleoturismo, escapadas rurales, cursos de cocina, recetarios y mucho más. Tu experiencia Aldonza Gourmet empieza aquí. Vive momentos únicos."
+    },
+    "enoturismo": {
+      "title": "Enoturismo en España | Aldonza Gourmet",
+      "description": "Enoturismo en La Mancha. Aldonza Gourmet te invita a vivir una experiencia inolvidable entre viñedos y en su bodega. Degustación de vinos en la sala de barricas. Solicita más información."
+    },
+    "oleoturismo": {
+      "title": "Oleoturismo en La Mancha | Aldonza Gourmet",
+      "description": "Oleoturismo en La Mancha. Un viaje al mundo del aceite de oliva virgen extra en la almazara Aldonza Gourmet. ¡Reserva tu visita! Cata profesional del producto."
+    },
+    "ruta_cervantina": {
+      "title": "Ruta Cervantina | Aldonza Gourmet",
+      "description": "Escapadas rurales por los mismos lugares que pasó Don Quijote de La Mancha. Una ruta cervantina apasionante con parada en las bodega y almazara Aldonza Gourmet. ¡Vive la experiencia!"
+    },
+    "recetario": {
+      "title": "Recetas Aldonza Gourmet | Ruta gastronómica",
+      "description": "Clásicas o modernas pero elaboradas con productos de la tierra. Descubre el recetario online y la ruta gastronómica de Aldonza Gourmet."
+    },
+    "escucha": {
+      "title": "Música y vino | Escucha Aldonza Gourmet",
+      "description": "Música, vino o cualquier otro producto. Aldonza Gourmet te invita a sentir una nueva experiencia sensorial mientras degustas una copa de vino. ¡Dale al play!"
+    },
+    "contacto": {
+      "title": "Aldonza Gourmet | Contacto",
+      "description": "Atención personalizada sobre la venta y exportación de nuestros productos. Visitas guiadas de enoturismo y oleoturismo organizadas en la bodega y almazara Aldonza Gourmet. ¡Contacta con nosotros!"
+    }
+  },
+  "home": {
+    "hero_alt": "Ven a visitar nuestra bodega y almazara. ¡Haz tu reserva aquí!",
+    "slogan": "Despiertan sensaciones",
+    "intro": "Apreciar la sutileza de cada movimiento que nos regala la naturaleza, es el origen de las sensaciones que te despertarán nuestros vinos, cavas, aceite de oliva virgen extra y azafrán.",
+    "intro_finca": "El entorno es lo que marca la diferencia de nuestros productos. Te damos la bienvenida a la Dehesa de Navamarín.",
+    "escucha_intro": "Transpórtate a través de la música a lugares nuevos que te despertarán nuevas sensaciones. Simplemente escucha y ¡déjate llevar!",
+    "experiencia_continua": "La Experiencia continúa ...",
+    "newsletter_titulo": "Suscríbete a nuestra newsletter",
+    "newsletter_enviado": "¡Te has suscrito correctamente!"
+  },
+  "finca": {
+    "tierra": {
+      "intro": "La Dehesa de Navamarín es un paraje natural a más 1.200 metros de altitud situado al noroeste de la provincia de Albacete (España). Cuenta con 2.200 hectáreas de monte alto, medio y bajo, repartido entre encinas y plantas aromáticas. Enclave único con la mayor reserva mundial de Sabinas (Juniperus Sabina), ubicada entre las vertientes de los ríos Guadiana y Júcar.",
+      "terreno": "Terreno: Fue ocupado hace 10.000 años por un glaciar que provocó una gran cantidad de cantos rodados, que impiden que el agua se evapore con facilidad.",
+      "suelo": "Suelo: La calidad de nuestros productos comienza en el suelo, óptimos para el cultivo. Se caracterizan por ser de consistencia caliza y permeabilidad media, con PH neutros o ligeramente alcalinos.",
+      "fauna": "Fauna: La Dehesa de Navamarín se ha convertido en el hábitat de numerosas especies autóctonas (ciervos, jabalíes y perdiz roja) y foráneas (muflón). Los restos orgánicos de estos animales son abono natural para nuestros cultivos.",
+      "clima": "Clima: Continental con inviernos fríos y veranos cálidos y muy secos. Condiciones climatológicas severas que evitan la proliferación de hongos y bacterias nocivas para los cultivos. En el caso de la vid, el contraste de temperaturas mejora el desarrollo de los polifenoles (taninos y antocianos) en la fase de maduración.",
+      "sabinas": "Sabinas: Este árbol milenario, especie protegida de origen oriental, aporta a nuestros frutos propiedades exclusivas para la salud.",
+      "frutos_intro": "La elevada cota de altitud y las severas condiciones climatológicas intervienen directamente en la calidad de nuestros frutos. Producimos diferentes varietales de uva, cultivo de aceitunas de las clases picual y arbequina y azafrán D.O.P La Mancha.",
+      "vinedos": "La Dehesa de Navamarín tiene 75 hectáreas de viñedos productivos y otras 100 de reciente plantación. Cultivamos los varietales tintos Tempranillo (el clásico de nuestra región), Cabernet-Sauvignon, Merlot y Syrah, así como los varietales blancos Sauvignon-Blanc y Macabeo. Los viñedos de nuestros cavas están situados en la comarca catalana del Penedés, en el centro de producción de Sant Sadurní D'Anoia (Barcelona). En esta zona, conocida como Región del Cava y con D.O de vinos espumosos, cultivamos las varietales Xarel-lo, Macabeo y Parellada. También, uvas tintas de la variedad Trepat.",
+      "azafranales": "El terreno seleccionado para el cultivo de nuestro azafrán es un área de tierra seca, calcárea, aireada y plana. Tierra equilibrada en materia orgánica que reduce los riesgos de erosión. También es un suelo con relativa profundidad que permite la evacuación del agua para que el bulbo no resulte dañado. El azafrán suele agotar temporalmente el terreno cada 3 o 4 años, por lo que rotamos la zona de plantaciones para garantizar año tras año un azafrán de primera calidad.",
+      "olivares": "Nuestros árboles siguen unos protocolos de mantenimiento totalmente estandarizados y regularizados. 75 hectáreas de olivos que producen dos variedades de oliva: Picual y Arbequina. La primera es la variedad más cultivada en España. Representa más del 50% de la producción y destaca por su sabor fuerte, con toque amargo y picante. La arbequina se caracteriza por su gran resistencia al frío y vigor muy reducido. Sabor dulce y suave."
+    },
+    "bodega": {
+      "texto_1": "En el corazón de la tierra de Don Quijote, en el municipio de Munera situado al noroeste de la provincia de Albacete, elaboramos nuestro vino desde hace más de cuatro generaciones. Nuestra bodega y viñedos están integrados en un paraje de tradición y leyenda, en el que Miguel de Cervantes se basó para escribir varios capítulos de 'El Quijote'. Nuestros vinos, junto a la elaboración de otros productos tradicionales de La Mancha como el aceite de oliva y el azafrán, son fruto de la pasión y del trabajo bien hecho. Aldonza está certificada por las normativas IFS y BRC.",
+      "texto_2": "Bodega de tradición familiar que ha incorporado modernas instalaciones equipadas con sofisticada maquinaría. Tradición agrícola e innovación, una combinación perfecta para elaborar vinos que despiertan nuevas sensaciones. Cuidamos cada detalle no sólo en la elaboración del vino, también en el diseño. Sorprende nuestro botellero al estilo 'Mondrian' y nuestra sala de barricas de roble francés y americano, situada en una cueva con cascada que cuenta con una exposición de las primeras máquinas con las que se molía la uva. Un espacio que envuelve por completo de la cultura del vino a todo a aquel nos visita.",
+      "sala_barricas": "El olor a madera, los aromas del vino, el sonido de una cascada y la luz tenue del ambiente te trasladarán por completo a otro lugar. Construida en una cueva situada en el subsuelo de la bodega, la sala de barricas Aldonza rememora la calidad de nuestros vinos. Puedes degustar nuestros productos, mientras disfrutas de un espacio único.",
+      "cta_enoturismo": "¡Descubre el Enoturismo!"
+    },
+    "almazara": {
+      "texto_1": "Cuidamos el entorno natural sin olvidar la innovación y las nuevas tecnologías de análisis para garantizar un aceite de oliva virgen extra de máxima calidad. La tradición de la herencia de padres a hijos, el compromiso y el amor hacia nuestra tierra son los valores que promueven el desempeño diario del equipo Aldonza. Aldonza está certificada por las normativas IFS y BRC.",
+      "texto_2": "Estamos presentes en todo el proceso de elaboración de nuestro aceite de oliva virgen extra. Mimamos cada olivo y trabajamos con delicadeza el fruto en nuestra propia almazara equipada con sofisticada tecnología. Depósitos frescos y oscuros de acero inoxidable conservan los matices puros del aroma y sabor de la aceituna. También mantenemos un compromiso firme con el medio ambiente: nuestra maquinaría obtiene el sello de calidad medioambiental. No sólo sabor, también salud. La planta industrial de Aldonza está diseñada para envasar garantizando la seguridad alimentaria tan importante en nuestros productos. Destaca nuestra capacidad logística. Servimos en tiempo a más de 20 países, ¡somos tu partner perfecto!",
+      "elaboracion_intro": "El método de elaboración tradicional convive con la modernidad, siempre con un mimo excepcional para obtener un aceite de oliva virgen extra de gran calidad."
+    },
+    "azafran": {
+      "texto_1": "Sólo el azafrán cultivado en Castilla La Mancha tiene la Denominación de Origen Protegida La Mancha. Este sello de calidad es mundialmente reconocido por su triple garantía: características organolépticas óptimas (color, aroma y sabor), máxima seguridad alimentaria y procedencia España. Las condiciones climatológicas y el terreno, suelos calizos y alcalinos situados al noroeste de la provincia de Albacete, garantizan una cosecha excepcional con propiedades y sabor exclusivo.",
+      "texto_2": "Desde el cultivo hasta su envasado, Aldonza cuenta con un equipo de profesionales cualificados que mantienen una decidida apuesta por la calidad y seguridad alimentaria del azafrán. En nuestros campos y modernas instalaciones, cultivamos, seleccionamos y envasamos artesanalmente el azafrán Aldonza. Nuestra empresa está certificada por las normativas IFS y BRC.",
+      "elaboracion_intro": "El proceso de elaboración del azafrán es tan delicado como los estigmas rojos de su flor. Mantenemos los valores tradicionales y realizamos un meticuloso trabajo en cada una de las fases del proceso.",
+      "cultura": "El azafrán Aldonza pertenece a la cultura popular de nuestra tierra. Los secretos de su producción forman parte de las herencias que las familias castellano manchegas han pasado de generación en generación. Este proceso milenario se mantiene vivo en nuestra sala de azafrán."
+    },
+    "queseria": {
+      "texto_1": "Quesos Denominación de Origen Queso Manchego, preparados con leche de oveja. Nos esforzamos a diario para ofrecer quesos de primera calidad, que transmitan el cariño de las manos que los fabrican. Se fusiona el método tradicional con la más alta tecnología para garantizar los controles de seguridad alimentaria exigidos, tanto en el ganado como en la calidad de la leche. Certificado SAE 2021-0014",
+      "texto_2": "Aldonza Gourmet tiene tres variedades de quesos, curado, semicurado y en aceite de oliva virgen, todos ellos procedentes de leche de oveja de pura raza manchega. Exportamos a los cinco continentes el sabor de nuestros quesos, junto a la tradición y la cultura del queso 100% manchego."
+    }
+  },
+  "elaboracion": {
+    "descubrir": "Descubrir la elaboración",
+    "vino": {
+      "titulo": "La elaboración del vino",
+      "intro": "Nuestro objetivo es extraer la grandeza y la calidad de la uva a través de un cuidado proceso de elaboración.",
+      "pasos": {
+        "0": {
+          "titulo": "Vendimia",
+          "texto": "Cuando la uva alcanza su punto óptimo de maduración, iniciamos la vendimia, normalmente entre finales de agosto y principios de septiembre. Para evitar que las altas temperaturas afecten al fruto y a su proceso de fermentación, vendimiamos mediante el sistema tradicional de recolección manual y nocturna. La uva se traslada en cajas hasta la bodega y seleccionamos manualmente los mejores frutos para garantizar un vino de calidad."
+        },
+        "1": {
+          "titulo": "Fermentación y prensado",
+          "texto": "Una vez que las uvas seleccionadas han sido despalilladas, empieza el proceso de fermentación en depósitos de acero totalmente informatizados. Prestamos especial atención al prensado del vino, fase en la que separamos el líquido de los restos sólidos de la uva."
+        },
+        "2": {
+          "titulo": "Crianza",
+          "texto": "Nuestro equipo de enólogos determina el tiempo que cada añada pasará en barrica, siendo siempre un mínimo de seis meses. Es el momento en el que los tintos adquieren su personalidad en nuestras barricas de roble americano y francés que están situadas en el subsuelo de la bodega. La sala de barricas mantiene una temperatura y humedad equilibrada durante todo el año. Cuando el vino muestra todo su aroma y sabor, realizamos el coupage y respetamos el reposo de la botella el mismo tiempo que ha pasado en barrica."
+        },
+        "3": {
+          "titulo": "Etiquetado y logística",
+          "texto": "Nuestra dedicación y fidelidad por nuestra tierra y por los vinos que elaboramos queda sellada en la fase de etiquetado. Es nuestro departamento de logística el que cierra el proceso enviando nuestros vinos a los más de 20 países en los que se distribuye la marca Aldonza. Somos un equipo profesional, que controla y coordina todas las fases del proceso de elaboración de nuestro producto."
+        }
+      }
+    },
+    "cava": {
+      "titulo": "La elaboración del cava",
+      "intro": "Mantenemos vivo el método tradicional del cava. En la comarca catalana del Penedés (Barcelona), con Denominación de Origen Cava, se lleva a cabo la cosecha y la elaboración de nuestras cuatro variedades de vino espumoso.",
+      "pasos": {
+        "0": {
+          "titulo": "Vendimia",
+          "texto": "Tras la cosecha de la uva (Xarel·lo, Macabeo, Chardonnay, Parellada y Trepat), se inicia el método tradicional de elaboración del cava en el prestigioso centro de producción de Sant Sadurní D'Anoia (Barcelona). Utilizamos sólo el mosto procedente de las primeras fracciones del prensado, el mosto flor."
+        },
+        "1": {
+          "titulo": "Tiraje",
+          "texto": "Es el proceso de llenado de botellas con vino base y con un compuesto de levaduras y azúcar. Estas provocarán la segunda fermentación dentro de la misma botella y producirán las burbujas tan características de este producto. La posterior crianza requiere un mínimo de 9 meses."
+        },
+        "2": {
+          "titulo": "Degüelle",
+          "texto": "En esta fase, extraemos la chapa de la botella y aspiramos la levadura que anteriormente ha sido congelada. Posteriormente, se añade el licor de expedición que es la cantidad de azúcar que determinará si el cava es Nature, Brut o Semi-dulce."
+        },
+        "3": {
+          "titulo": "Etiquetado y logística",
+          "texto": "Estamos presentes en todas las etapas del proceso de elaboración del cava, supervisando y garantizando los más altos estándares de calidad en todas las fases."
+        }
+      }
+    },
+    "aceite": {
+      "titulo": "La elaboración del aceite",
+      "intro": "El método de elaboración tradicional convive con la modernidad, siempre con un mimo excepcional para obtener un aceite de oliva virgen extra de gran calidad.",
+      "pasos": {
+        "0": {
+          "titulo": "Cosecha",
+          "texto": "Importante determinar el momento óptimo de recolección de la aceituna ya que la maduración está vinculada con el rendimiento, el grado de acidez y las características organolépticas del aceite. Esta es la base del éxito de la calidad de nuestro virgen extra, el minucioso seguimiento que hacemos al proceso de maduración de la oliva y que iniciamos los primeros días de noviembre. La cosecha suele empezar a finales de este mes o principios de diciembre. Sólo recolectamos frutos sanos que no hayan caído del árbol al suelo."
+        },
+        "1": {
+          "titulo": "Recepción y limpieza",
+          "texto": "Trasladamos con delicadeza la oliva hasta nuestra almazara y comprobamos el estado sanitario de los frutos a través de un análisis que determina la composición de la aceituna y que optimizará su procesado. El paso previo a la molienda es eliminar todas las impurezas. La aceituna pasa por una máquina limpiadora que mediante ventilación en seco quita hojas, ramilletes, etc. Posteriormente, el fruto ingresa en una línea de lavado que elimina el resto de suciedad."
+        },
+        "2": {
+          "titulo": "Molienda y batido",
+          "texto": "Durante la fase de molienda, creamos una papilla para descomponer la estructura física de la aceituna y poder llevar a cabo la fase de batido. El propósito del batido es favorecer la separación del aceite del resto de la aceituna. Sometemos la pasta de aceituna a la acción de un movimiento continuo a temperatura mayor a la del ambiente pero siempre inferior a 25 grados."
+        },
+        "3": {
+          "titulo": "Extracción y limpieza del aceite",
+          "texto": "Una vez batida la pasta de aceituna, separamos el aceite del resto de los componentes. Como todas las técnicas, esta también ha ido avanzando y, de la antigua presión de discos filtrantes de fibras naturales, hemos pasado a realizar la extracción mediante centrifugados automáticos, más rápidos y eficientes, también llamado decanter. La pasta es sometida a la acción de una fuerza centrífuga que separa los distintos componentes según densidades. El aceite que sale del decanter contiene todavía impurezas sólidas y algo de agua. Utilizamos centrífugas verticales para separar estos componentes, máquinas mucho más veloces y precisas que reducen el tiempo de contacto del aceite con las impurezas y garantizan una separación más fiable."
+        },
+        "4": {
+          "titulo": "Almacenamiento y envasado",
+          "texto": "Una vez obtenido el aceite de oliva virgen extra, se almacena en depósitos de acero inoxidable para que se conserve en perfecto estado y esté protegido de circunstancias adversas como la luz, los olores externos, la temperatura exterior y hasta ruido. Antes de su embotellamiento, se realiza el filtro de tierras para conseguir un aceite más brillante y limpio. En la embotelladora controlamos las características organolépticas del aceite hasta el último momento, para asegurarnos que cumple las expectativas de nuestras normas de calidad."
+        }
+      }
+    },
+    "azafran": {
+      "titulo": "La elaboración del azafrán",
+      "intro": "El proceso de elaboración del azafrán es tan delicado como los estigmas rojos de su flor. Mantenemos los valores tradicionales y realizamos un meticuloso trabajo en cada una de las fases del proceso.",
+      "pasos": {
+        "0": {
+          "titulo": "Plantación",
+          "texto": "La plantación de los bulbos se lleva a cabo durante los meses de junio a septiembre para que la rosa del azafrán llegue a su máximo esplendor en pleno otoño. Nuestro azafrán se cultiva en tierras favorables para su cosecha: secas, calcáreas, planas y sin arbolado. El suelo no es profundo y permite la evacuación del agua para que el bulbo no resulte dañado."
+        },
+        "1": {
+          "titulo": "Recolección",
+          "texto": "El cantar y el silbido de los campesinos se escucha en nuestras plantaciones antes de que salga el sol. La recolección de la rosa del azafrán se realiza al amanecer para evitar que los estigmas pierdan sus propiedades con la luz solar. La campaña de recogida tiene lugar entre finales de octubre y principios de noviembre."
+        },
+        "2": {
+          "titulo": "Monda",
+          "texto": "Esta minuciosa labor es considerada una tradición milenaria. La rosa del azafrán llega a las casas todavía con el primer rocío de la mañana. La separación de los estigmas del resto de la flor se hace manual y recibe el nombre de monda o desbriznado. Se trata de la parte más delicada del proceso. Es muy importante que el estigma no se rompa para que llegue entero a la fase de tostado. Esta labor se realiza en un plazo de tiempo que no supera las doce horas desde su recogida en el campo."
+        },
+        "3": {
+          "titulo": "Tostado",
+          "texto": "El azafrán se tuesta en ciazos y a fuego lento. Este proceso de secado o tostado de los estigmas se hace para que el azafrán se conserve en perfecto estado y mantenga todo su sabor. Es una etapa crucial ya que determina características del producto como la humedad, el poder colorante, el aroma y la establidad."
+        },
+        "4": {
+          "titulo": "Almacenamiento y envasado",
+          "texto": "El azafrán tostado se almacena rápidamente en envases que lo aíslan de la humedad y de la luz. También lo mantienen a una temperatura ambiental inferior a 25ºC. El envasado es manual."
+        }
+      }
+    },
+    "queso": {
+      "titulo": "La elaboración del queso",
+      "pasos": {
+        "0": {
+          "titulo": "Ordeño y cuajado",
+          "texto": "Justo después del ordeño de las ovejas, se refrigera la leche a una temperatura de 4 ºC para conservar todas sus propiedades. A continuación, se vierte la leche en cubas de cuajado y se eleva a una temperatura constante de 30ºC. Cuando la cuajada alcanza la consistencia adecuada, se realiza el corte y se pasa al moldeado del queso."
+        },
+        "1": {
+          "titulo": "Moldeado, prensado y salado",
+          "texto": "Se introduce la cuajada en los moldes de manera artesanal y se coloca la placa de caseína, numerada y seriada, para identificar cada pieza de queso manchego. Posteriormente, se prensa el queso para eliminar totalmente el suero y darle la forma definitiva. Tras el prensado, se extrae el producto del molde y se realiza el salado del queso. Durante el salado, los quesos regulan su proceso microbiano, potencian el sabor y generan la corteza externa."
+        },
+        "2": {
+          "titulo": "Maduración",
+          "texto": "La maduración de nuestros quesos es de 60 a 100 días para el semicurado y de 150 a 210 en el caso del curado. Las cámaras de maduración mantienen condiciones de temperatura y humedad controladas permitiendo la correcta maduración del Queso Manchego."
+        }
+      }
+    }
+  },
+  "productos": {
+    "intro_general": "Haz que hoy sucedan cosas increíbles",
+    "vino": {
+      "intro": "Sabores con tradición, con leyenda. Vivirás una experiencia diferente con nuestras cuatro variedades de vino Aldonza. ¡Descúbrelas!",
+      "descripcion": "Nuestro vino es la esencia de las peculiares características del terreno y del entorno donde se cultiva, la Dehesa de Navamarín. Es la dedicación y el alma de unas manos expertas. La huella de la tradición vinícola de la tierra de Don Quijote. Vinos con personalidad, elaborados a partir de varietales de uva francesa y española. Vinos con pasión, con alma. Vinos que despiertan sensaciones.",
+      "variedades": {
+        "seleccion": {
+          "nombre": "Selección",
+          "tipo": "Tinto barrica Crianza mínima de 12 meses. Barrica de roble francés y americano.",
+          "elaboracion": "Vino elaborado en la Dehesa de Navamarín, enclave con la reserva de Sabinas más grande de mundo que aporta al vino propiedades y aromas exclusivos. Cuidada selección de las uvas en producciones que no superan los 2 Kg. por cepa. Coupage realizado finalizada la crianza en barrica.",
+          "graduacion": "13,5 - 14,5% Vol. (varía según añada).",
+          "cata": "Toques a frutos rojos y hierbas, con un matiz de tabaco. Con cuerpo. Taninos suaves y redondos, aromáticos al final. Perfecto para beber ahora o dejarlo para guarda."
+        },
+        "clasico": {
+          "nombre": "Clásico",
+          "tipo": "Tinto barrica Crianza mínima de 9 meses. Barrica de roble americano y francés.",
+          "elaboracion": "Elaborado a partir de una cuidada selección de uvas procedentes de cepas de escasa producción y recolectadas durante la noche en su momento óptimo de maduración. El coupage se realiza una vez finalizada la crianza en barrica para un mejor ensamblaje. Reposo en botella durante 12 meses en la oscuridad de nuestra cava.",
+          "graduacion": "13,5 - 14% Vol. (varía según añada)."
+        },
+        "reserva": {
+          "nombre": "Reserva",
+          "tipo": "Tinto barrica Crianza mínima de 6 meses. Barrica de roble francés y americano.",
+          "elaboracion": "Elaboración tradicional que respeta el proceso clásico de elaboración del vino que antiguamente se hacía en la región de Castilla La Mancha. Cuidada selección de las uvas con mayor calidad. Tras la crianza, reposo en botella durante al menos seis meses antes de su comercialización.",
+          "graduacion": "13 - 14% Vol. (varía según añada)."
+        },
+        "albo": {
+          "nombre": "Albo",
+          "elaboracion": "Tras la vendimia, se realiza una ligera maceración con control de levaduras y temperaturas de fermentación, obteniendo riqueza de aromas y un exquisito sabor a frutas.",
+          "graduacion": "12 - 13% Vol. (varía según añada).",
+          "gastronomia": "Ideal para acompañar mariscos, pescados y postres.",
+          "cata": "Presencia limpia y brillante, con tono amarillo pálido. En nariz, es rico en aromas frutales (plátano, melocotón y maracuyá) y florales como el azahar y el jazmín, siendo sedoso en boca. Tiene una acidez equilibrada que le da frescura y postgusto largo y agradable."
+        }
+      },
+      "premios_titulo": "Premios internacionales y críticas de prestigiosos sumillers.",
+      "beneficios_titulo": "¿Conoces los beneficios y las propiedades demostradas del vino?",
+      "beneficios": {
+        "0": "El consumo de vino tinto activa la función de un gen que impide la formación de nuevas células de grasa y ayuda a movilizar las existentes.",
+        "1": "Determinados compuestos presentes en el vino frenan el crecimiento bucal de los estreptococos y bacterias vinculadas a las caries. También previene de gingivitis y dolores de garganta.",
+        "2": "La elevada presencia de antioxidantes en el vino provoca impide que se endurezcan las arterias e inhibie la coagulación, mejorando el riego sanguíneo cerebral.",
+        "3": "Durante la degustación del vino se liberan endorfinas en dos áreas del cerebro, que provocan un incremento de la sensación de placer.",
+        "4": "Tomado durante las comidas, el vino ayuda a percibir mejor los sabores. Esto se debe a sus propiedades astringentes, que evitan la excesiva sensación de grasa causada por alimentos como las carnes rojas y permiten degustar mejor la comida.",
+        "5": "El vino, concretamente el tinto, ayuda a reducir el riesgo el cáncer de pulmón en hombres. Además bloquea el crecimiento de las células responsables del cáncer de mama en mujeres. De nuevo, el resveratrol es el responsable de tal excepcional cualidad.",
+        "6": "Una o dos copas al día del vino, contribuyen a aumentar los niveles de colesterol bueno en la sangre y previenen las complicaciones cardiovasculares.",
+        "7": "Se ha demostrado que siete vasos de vino semanales después de cumplir los 40 años, reduce en más de la mitad los diagnósticos de cáncer de próstata.",
+        "8": "Desde el punto de vista social, diferentes estadísticas indican que los enófilos tienen hábitos alimenticios más saludables que los aficionados a otras bebidas, como los consumidores de cerveza o de refrescos. Los aficionados al vino tienden a consumir más aceitunas, frutas, verduras, quesos bajos en grasas, leche y carnes saludables."
+      }
+    },
+    "aceite": {
+      "intro": "Empezarás a sentir sólo con su aroma, la antesala a la textura y el sabor de un aceite de oliva virgen extra excepcional. Resultado de un cuidadoso proceso de elaboración.",
+      "descripcion_larga": "Se obtiene un aceite de oliva virgen extra que expresa todas las cualidades aromáticas y el sabor de las varietales Picual y Arbequina. Con la confianza de las múltiples propiedades curativas que se atribuyen al virgen extra. Origen y pilar fundamental de la dieta mediterránea, el aceite de oliva virgen extra se utiliza desde la antigüedad, prueba de ello es el legado cultural que ha llegado hasta nuestros días sobre el olivo, su cultivo y su forma de elaboración. Muchas civilizaciones antiguas le dieron el nombre de oro líquido.",
+      "descripcion": "Aceite de oliva virgen extra elaborado con olivas de las variedades Picual y Arbequina mediante el proceso mecánico de extracción en frío.",
+      "ingredientes": "100% Aceite de Oliva Virgen Extra. No contiene ningún tipo de aditivo alimentario.",
+      "beneficios_titulo": "¿Conoces los beneficios y las propiedades demostradas del aceite?",
+      "beneficios": {
+        "0": "El aceite de oliva virgen extra juega un papel importante en la prevención de la osteoporosis ya ayuda a la absorción de calcio por parte del sistema óseo.",
+        "1": "Ayuda a disminuir drásticamente la presión arterial sistólica y la diastólica.",
+        "2": "El AOVE está totalmente indicado en dietas hipocalóricas para cocinar y para aliños, ya que su índice glucémico es mucho más bajo que el de otras grasas.",
+        "3": "Entre los aceites vegetales, el aceite de oliva virgen extra es el más alto en grasa monoinsaturada. A diferencia de otras grasas, ésta no se oxida en el cuerpo y contiene un porcentaje muy bajo en grasas poliinsaturadas. También es rico en Vitamina E.",
+        "4": "Está científicamente probado que los fitonutrientes del aceite de oliva virgen extra pueden reducir el riesgo de cáncer de mama. El escualeno y los lignanos son otros de los componentes sobre los que se está estudiando sus posibles efectos sobre el cáncer.",
+        "5": "Los diabéticos encuentran en el consumo de aceite de oliva virgen extra un gran aliado contra su enfermedad porque les ayuda a reducir los niveles de glucosa e insulina en sangre.",
+        "6": "El AOVE ayuda a disminuir el colesterol en la sangre, propiedad que puede evitar el desarrollo de enfermedades cardíacas. También contribuye a que el colesterol malo LDL, que incide directamente en el desarrollo de las enfermedades coronarias, no se oxide."
+      }
+    },
+    "azafran": {
+      "intro_productos": "Pequeños detalles que marcan la diferencia",
+      "intro": "El delicado trabajo del milenario proceso manual de la monda del azafrán, se aprecia en la calidad de cada estigma. Azafrán Aldonza, con sello de calidad D.O.P La Mancha.",
+      "descripcion": "Azafrán Denominación de Origen Protegida La Mancha. Reconocimiento de calidad mundial que garantiza la máxima calidad en seguridad alimentaria, características organolépticas (color, aroma y sabor) y procedencia España (Castilla La Mancha).",
+      "caracteristicas": "Azafrán en hebras, nunca molido. Hebras flexibles y resistentes",
+      "maridaje": "Ideal como colorante, aromatizante y para dar sabor a cualquier comida. El azafrán alcanza su máximo exponente en la preparación de platos de cocina empleado como especia: asados de carne, pescados, sopas, mariscos y arroces.",
+      "descripcion_larga": "Oro rojo. Venerado desde tiempos remotos por antiguas civilizaciones como la egipcia o la griega, esta especia tan fina como delicada se ha convertido en la actualidad en ingrediente estrella de la cocina internacional por su aroma, sabor y color. El azafrán también es utilizado como fármaco por sus múltiples propiedades medicinales. El azafrán Aldonza se produce en Castilla La Mancha (España), tierra que ha sido reconocida con el sello de calidad Denominación de Origen Protegida Azafrán de La Mancha. Un reconocimiento de calidad mundialmente reconocido por su triple garantía: procedencia España, características organolépticas óptimas y seguridad alimentaria.",
+      "dop": "Denominación de origen protegida La Mancha",
+      "beneficios_titulo": "¿Conoces los beneficios y las propiedades demostradas del azafrán?",
+      "beneficios": {
+        "0": "Por sus componentes aromáticos y amargos (picrocrocina), estimula el sistema digestivo y aumenta las secreciones salivales y gástricas. Además, el azafrán contiene crocetina (los pigmentos rojos) y fluidifica. El primero estimula la producción de bilis mientras que la fluidifica ayuda al proceso digestivo y evita que se produzcan piedras en la vesícula biliar.",
+        "1": "El azafrán tiene un papel muy importante para tratar los síntomas premenstruales. Se ha demostrado que el azafrán favorece el ciclo menstrual, evita los cólicos uterinos y beneficia el flujo de la menstruación.",
+        "2": "La crocina, componente principal del azafrán, es un poderoso antioxidante natural. Esta sustancia retrasa el envejecimiento de las células del cuerpo.",
+        "3": "El azafrán mejora la memoria y las habilidades cognitivas. Es reconocido su efecto protector sobre enfermedades degenerativas como el Parkinson y el Alzheimer. También se recomienda como suplemento alimentario para aquellas personas que sufren estrés.",
+        "4": "El safranal, componente aromático del azafrán, ralentiza la degeneración de las células fotorreceptoras de los ojos, mejora la función de la retina y los vasos sanguíneos de la vista.",
+        "5": "El azafrán es una especia aromática muy rica en antioxidantes, que actúa como preventivo de enfermedades cardiovasculares. Además, la crocetina, pigmento rojo del azafrán, contribuye a reducir el colesterol.",
+        "6": "Por su elevado poder antioxidante, el azafrán es un suplemento beneficioso para personas con diabetes. El extracto de azafrán protege a este tipo de pacientes frente a la neuropatía diabética, daño que se produce en los nervios debido al exceso de azúcar en la sangre.",
+        "7": "El azafrán contiene betacarotenos y flavonoides que ayudan a retrasar el crecimiento tumoral, alargando la esperanza de vida.",
+        "8": "El azafrán, en casos de depresión leve y moderada, puede ser tan efectivo como algunos fármacos para la depresión.",
+        "9": "El azafrán contiene sustancias aromáticas sedantes, que ayudan a combatir el nerviosismo y la ansiedad."
+      }
+    },
+    "cava": {
+      "intro_productos": "Después de grandes momentos, quedan inolvidables recuerdos",
+      "intro": "Refrescante desde el momento que las burbujas ascienden por la copa de cava. Te esperan sensaciones diferentes con cada una de nuestras cuatro variedades de vinos espumosos. ¡Siéntelas!",
+      "descripcion_larga": "Del fruto de la viña se obtiene el mosto que después de dos fermentaciones se transformará en cava. Levaduras propias y seleccionadas con rigor que otorgan personalidad propia a nuestras cuatro variedades de vinos espumosos. Cava con D.O. Vinos Espumosos, cultivado en la comarca del Penedés y elaborado en el centro de Sant Sandurní D'Anoia en Barcelona a partir de las variedades de uva Xarel·lo, Macabeo y Parellada. Mención especial para nuestro cava rosado, elaborado únicamente con uvas tintas de la variedad Trepat.",
+      "variedades": {
+        "brut": {
+          "nombre": "Brut Reserva",
+          "uva": "Chardonnay, Xarel-lo, Macabeo de viñedos propios de la D.O. Cava",
+          "elaboracion": "Tras la recolección, el mosto se obtiene por prensa neumática o escurrido dinámico. Fermentación del mosto a una temperatura de 15ºC y seguimiento de la misma. Segunda fermentación y crianza mínima de 24 meses en caves.",
+          "cata": "Color amarillo paja y buena formación de burbujas que acaban en rosario. Destaca por su aroma a crianza, fruta madura y flores. En boca es rodondo, armonioso, seco y de larga persistencia."
+        },
+        "nature": {
+          "nombre": "Brut Nature",
+          "elaboracion": "Tras la recolección de la uva, ésta se descarga por variedades y calidad. Posteriormente se obtiene el mosto por prensa neumática o escurrido dinámico. Fermentación del mosto por debajo de 19ºC de temperatura y seguimiento de la misma. Reposo y crianza en la cava entre 12 y 14 meses.",
+          "cata": "Color amarillo pálido con leves reflejos dorados y con desprendimiento de burbujas que suben en rosario formando corona. Se distinguen aromas florales y melosos característicos de la crianza en botella. En la boca se presenta seco, agradable y redondo; con muy buena persistencia aromática."
+        },
+        "rose": {
+          "nombre": "Brut Rosé",
+          "elaboracion": "Tras la vendimia, se realizada un derrapado y encubado de las uvas con una leve maceración hasta alcanzar su punto óptimo de color y el resto de características. Fermentación del mosto por debajo de 19ºC de temperatura. Reposo y crianza en la cava (mínimo 9 meses).",
+          "gastronomia": "Ideal para acompañar ensaladas, pastas, pescados azules, y maricos",
+          "cata": "Color rosado intenso, vivo y brillante. Persistente y buen desprendimiento de pequeñas burbujas que suben en rosario formando una corona. La primera impresión es agradable y se distinguen aromas que recuerdan a pequeñas frutas rojas. Posteriormente, la impresión final deja un gusto equilibrado, sabroso y muy afrutado."
+        },
+        "metal": {
+          "nombre": "Metal",
+          "gastronomia": "Ideal para acompañar con jamón, carnes blancas y arroces.",
+          "cata": "Color amarillo muy pálido con leves reflejos dorados y con buen desprendimiento de pequeñas burbujas que acaban formando una alegre corona. Aroma elegante, con notas afrutadas y con los matices própios de la crianza en botella. En boca genera un sabor agradable, con puntas dulces y recuerdos finales a manzana. Buena acidez y larga persistencia."
+        }
+      },
+      "beneficios_titulo": "¿Conoces los beneficios y las propiedades demostradas del cava?",
+      "beneficios": {
+        "0": "El cava, se incluye entre las bebidas bajas en grasa que además contiene propiedades nutricionales. Destacamos su contenido en hierro, proteínas, calcio, potasio, yodo, trazas de zinc, carbohidratos, magnesio, sodio, vitamina B1, B2, B9, vitaminas B3 y B6, fósforo y azúcar.",
+        "1": "El cava se considera una fuente de juventud ya que contiene antioxidantes que estimulan la renovación celular y potencian la vitamina E. Estas propiedades rejuvenecen la piel, especialmente la de las mujeres.",
+        "2": "Gracias a sus altos niveles en polifenoles, reduce la presión arterial y previene el riesgo de enfermedades cardiovasculares o infartos.",
+        "3": "Algunos componentes de esta bebida levantan el ánimo. Este producto contiene oligoelementos naturales que mejoran nuestro estado de ánimo.",
+        "4": "El consumo moderado de cava, una copa al día, es capaz de mejorar la memoria y de retrasar varias enfermedades degenerativas del cerebro, como la demencia senil. Estudios científicos determinan que la clave de esta propiedad reside en el ácido fenólico.",
+        "5": "El cava es una de las bebidas alcohólicas con menor contenido calórico. Una copa de Brut contiene menos de 12 gramos de azúcar residual por litro, es decir, entre 80 y 100 calorías, mientras que una cerveza o un combinado de ron, por citar algunos ejemplos, tienen más de 150 calorías.",
+        "6": "El cava desintoxica la piel con antioxidantes y ácido tartárico, contribuyendo a equilibrar su tono y evitar rojeces. Para las personas con tendencia a tener la piel grasa, las propiedades antibacterianas de esta bebida ayudan a tenerla más sana y saludable."
+      }
+    },
+    "queso": {
+      "intro_productos": "Haz un paréntesis en tu día a día",
+      "intro": "El auténtico sabor de La Mancha se fusiona con el espíritu de llevar la alimentación de nuestra tierra por todo el mundo. Denominación de Origen Queso Manchego.",
+      "descripcion_larga": "Cada queso recibe el trato personalizado de las manos de nuestros queseros artesanos. Un mimo que se aprecia en el sabor, el aroma y la textura de cada bocado. Recréate con cualquiera de nuestras tres variedades: curado, semicurado y en aceite de oliva. Una experiencia más, irresistible a tu paladar. Certificado SAE 2021-0014",
+      "variedades": {
+        "en_aceite": {
+          "nombre": "En Aceite de Oliva",
+          "apariencia": "Consistencia: firme y compacta. Color: variable desde el blanco hasta el marfil - amarillento. Olor: láctico, acidificado intenso y persistente que evoluciona a matices picantes. Sabor: ligeramente ácido, fuerte y sabroso.",
+          "ingredientes": "Leche de oveja manchega pasteurizada, cuajo, fermentos lácticos, lisozima (derivado del huevo), cloruro de calcio, sal y aceite de oliva. Origen de la leche: España.",
+          "valores_nutricionales": "Valor Energético: 410 Kcal / 1715 Kj Grasas: 36 g A. G. saturadas: 18,70 g Hidratos de carbono: 0,50 g Azúcares: 0 g Proteínas: 24 g Sal: 1,60 g",
+          "durabilidad": "1 año desde su elaboración. Se indica en cada envase",
+          "gastronomia": "Ideal para acompañar vinos tintos (Aldonza Selección y Aldonza Navamarín) y cava (Aldonza Brut Reserva).",
+          "cata": "Sabor fuerte característico de queso de oveja, reforzado por el intenso sabor del aceite de oliva, con un retrogusto bastante picante."
+        },
+        "semicurado": {
+          "nombre": "Semicurado",
+          "apariencia": "Consistencia: firme y compacta. Color: variable desde el blanco hasta el marfil - amarillento. Olor: láctico, acidificado intenso y persistente. Sabor: ligeramente ácido, fuerte y sabroso.",
+          "ingredientes": "Leche de oveja manchega pasteurizada, cuajo, fermentos lácticos, lisozima (derivado del huevo), cloruro de calcio y sal. Origen de la leche: España.",
+          "valores_nutricionales": "Valor Energético: 410 Kcal / 1715 Kj Grasas: 30 g A. G. saturadas: 18,90 g Hidratos de carbono: 0,50 g Azúcares: <0,50 g Proteínas: 26 g Sal: 1,60 g",
+          "gastronomia": "Ideal para acompañar vinos blancos (Aldonza Albo), tintos jóvenes (Aldonza Clásico) y cavas rosados (Aldonza Brut - Rosé).",
+          "cata": "Sabor suave. Textura bastante cremosa. Retrogusto muy peculiar gracias a la leche de oveja manchega. Equilibrado sabor láctico con toques ácidos al final."
+        },
+        "curado": {
+          "nombre": "Curado",
+          "curacion": "Entre 150 - 210 días.",
+          "gastronomia": "Ideal para acompañar vinos tintos (Aldonza Selección y Aldonza Navamarín) y cava (Aldonza Brut Nature).",
+          "cata": "Queso con mucho carácter, de sabor fuerte, penetrante, intenso, que evoluciona a matices ligeramente picantes al final."
+        }
+      },
+      "beneficios_titulo": "¿Conoces los beneficios y las cualidades demostradas del queso?",
+      "beneficios": {
+        "0": "El queso es una de las principales fuentes de calcio, mineral que regula procesos esenciales en nuestro organismo, como el transporte de oxígeno por los glóbulos rojos o la coagulación.",
+        "1": "Además de fortalecer nuestros dientes, reduce la placa bacteriana, estimula la producción de saliva y limpia nuestra boca de forma natural.",
+        "2": "Contiene vitamina A y D que ayudan a mejorar la visión y el sistema inmunológico.",
+        "3": "Contiene ácido fólico, por lo que es muy recomendable tomarlo durante el embarazo, además favorece la producción de leche materna.",
+        "4": "El queso rico en ácido linoleico conjugado (CLA) y en esfingolípidos, dos componentes de la leche grasa que ayudan a reducir el riesgo de cáncer y enfermedades del corazón.",
+        "5": "Es muy rico en proteínas y favorece la recuperación de la masa corporal. Es un alimento de gran ayuda para deportistas y reduce los riesgos de obesidad."
+      }
+    }
+  },
+  "experiencias": {
+    "vive_aldonza": {
+      "titulo": "Vive Aldonza",
+      "intro": "Ten preparada la cámara de fotos cuando desciendas a la cueva donde está ubicada nuestra sala de barricas. Una experiencia de enoturismo sensorial con degustación incluida. Visitas de lunes a domingo.",
+      "que_necesitas": "¿Qué necesitas para vivir tu experiencia Aldonza?",
+      "tip_maleta": "Recuerda meter en la maleta todo lo que quieres que te acompañe durante la experiencia. ¡Hay que estar preparado!",
+      "tip_camara": "¡Una cámara de fotos! Imprescindible para inmortalizar cada uno de los momentos irrepetibles que vivirás con Aldonza.",
+      "tip_corazon": "Tu actitud, el ingrediente fundamental para que cada experiencia sea inolvidable. El camino sólo depende de ti."
+    },
+    "enoturismo": {
+      "titulo": "Enoturismo",
+      "intro": "Ten preparada la cámara de fotos cuando desciendas a la cueva donde está ubicada nuestra sala de barricas. Una experiencia de enoturismo sensorial con degustación incluida. Visitas de lunes a domingo.",
+      "ubicacion": "Enoturismo en el corazón de la tierra de Don Quijote. Nuestra bodega se encuentra en el término municipal de Munera situado al noroeste de la provincia de Albacete.",
+      "recorrido": "Recorrido completo por nuestras instalaciones: bodega, almazara y sala de azafrán. Aprenderás cómo se elabora el vino, aceite de oliva virgen extra y azafrán.",
+      "degustacion": "Degustación de vino, cava y aceite de oliva virgen extra. ¡Una experiencia exquisita!",
+      "duracion": "Duración aproximada: 120 minutos. Accesible para personas con discapacidad.",
+      "horario": "Visítanos cualquier día de la semana (de lunes a domingo).",
+      "cta": "¡Reserva tu experiencia de enoturismo con Aldonza Gourmet!",
+      "video_cta": "Sólo tienes que elegir la compañía. ¿Familia, pareja o amigos? Enoturismo y oleoturismo de la mano. ¡Dale al play!"
+    },
+    "degustacion_quesos": {
+      "titulo": "El Ritual del Queso",
+      "intro": "Activa todos los sentidos para saborear un trozo de queso. ¡Empieza el ritual de la degustación del queso!",
+      "sentidos": {
+        "vista": "Es el sentido que evalúa la apariencia y estado del queso. Debemos examinar tanto la corteza exterior como la superficie del corte. Según la variedad, la corteza será lisa y cerosa, enmohecida, lavada o tratada, por ejemplo, con aceite de oliva virgen extra. El color es otro de los aspectos visuales que debemos tener en cuenta. Los quesos manchegos, elaborados con leche de oveja, suelen tener una tonalidad marfil. Con la vista también también podemos apreciar la textura. Por ejemplo, un queso estará más o menos agrietado según el tiempo de curado.",
+        "tacto": "El examen táctil nos permite sentir la textura escamosa, harinosa y algo quebradiza, típica de los quesos manchegos curados.",
+        "olfato": "En nariz percibimos las sensaciones que los catadores y maestros queseros agrupan en familias. Se distinguen impresiones lácticas, vegetales, afrutadas, de especias, etc.",
+        "gusto": "¡Es el momento de apreciar los sabores y la textura de cada queso! Para la degustación en boca, lo ideal es masticar durante unos segundos sin respirar y, a continuación, liberar el aire poco a poco por la boca. Esto ayuda a detectar la intensidad y los sabores del queso; dulces, salados, ácidos, amargos, picantes y hasta otros matices que pueden tener una apreciación totalmente personal.",
+        "regusto": "Al finalizar la degustación, queda el regusto, también conocido como gusto residual. En este instante, permanece una sensación olfato-gustativa distinta a cuando se saborea el queso por primera vez, con lo que los aromas y sabores pueden ser totalmente nuevos y singulares."
+      },
+      "maridaje": "La acidez del vino nos facilita el paso de los quesos, además, los vinos limpian la boca y potencia el sabor del queso."
+    },
+    "oleoturismo": {
+      "titulo": "Oleoturismo",
+      "intro": "Déjate seducir por el aroma de un buen virgen extra. Visita nuestra almazara, aprende el proceso de elaboración del aceite de oliva virgen extra y llénate de las propiedades del producto más tradicional de la dieta mediterránea.",
+      "catas": "Las catas de aceite de oliva se realizan en vasos opacos. El motivo es que el color de este producto no determina su calidad. ¿Lo sabías? Apúntate a una jornada de oleoturismo con Aldonza para descubrir mucho más sobre este producto. En un entorno único, en el corazón de la tierra de Don Quijote, aprenderás cómo se elabora el aceite de oliva virgen extra, cómo funciona una almazara, cuáles son las principales variedades de aceituna y cómo se realiza una cata de aceite de oliva profesional. No te contamos más, ¡descúbrelo por ti mismo!"
+    },
+    "recetario": {
+      "titulo": "Recetario y Ruta Gastronómica",
+      "intro": "La mejor manera de saborear nuestros productos es cocinar con ellos. Tradicionales o innovadoras, elige la receta que más te apetezca de nuestro recetario. Lo mejor de la cocina española, con productos Aldonza. Coge tu maleta y ven a disfrutar de la ruta gastronómica 'Tasting Spain'.",
+      "detalle": "Aldonza tiene su propio recetario de platos saludables preparados con sus productos: aceite de oliva virgen extra, azafrán y vino. Tradicionales o innovadoras, todas nuestras recetas están disponibles en formato audiovisual. ¿Cuál te apetece cocinar hoy? El equipo de Aldonza y los chefs del centro culinario HEB recorren los principales restaurantes y centros gastronómicos de España para preparar un nuevo recetario que fusionará la cocina española y texana. Revive con nuestros vídeos la ruta gastronómica 'Tasting Spain'.",
+      "cta_recetario": "¡Consulta nuestro recetario!",
+      "cta_tasting": "¡Descubre tasting spain!",
+      "youtube": "¿Quieres ver más recetas o no perderte alguna de nuestras rutas?",
+      "youtube_cta": "Suscríbete a nuestro canal de Youtube"
+    },
+    "ruta_cervantina": {
+      "titulo": "Ruta Cervantina",
+      "intro": "Territorio plagado de historia y de leyendas, considerado ruta-vía cervantina preferente. Muchos son los rincones con encanto que rodean la Dehesa de Navamarín. Haz tu maleta y déjate seducir por la tierra de Don Quijote de La Mancha.",
+      "historia": "Miguel de Cervantes se inspiró en los territorios de la Dehesa de Navamarín para escribir dos capítulos de su obra más internacional 'Don Quijote de La Mancha'. Las historias que se relatan en 'Las bodas de Camacho' y en 'La Cueva de Montesinos' transcurren en nuestras tierras.",
+      "tradicion": "La influencia de esta obra universal en nuestros viñedos, olivares y azafranales, da nombre a nuestra marca. Aldonza Lorenzo, Dulcinea del Toboso en el libro, fue la doncella a la que amaba Don Quijote. En la actualidad, puedes visitar la herencia de esta obra literaria en el municipio de Munera.",
+      "ruidera": "En plena ruta cervantina, a unos 40 Km. de la Dehesa de Navamarín y en medio del extenso Campo de Montiel, nos encontramos con un oasis de agua y vegetación: el Parque Natural de las Lagunas de Ruidera, en cuyo punto más alto, la Cabeza de San Pedro se encuentran el Castillo de Rochafrida y la Cueva de Montesinos",
+      "ruidera_detalle": "En una superficie de 4000 hectáreas se reparten dieciséis lagunas que escalonadamente forman cascadas y torrentes que van desde los primeros manantiales que emanan en la laguna Blanca hasta llegar a las lagunas bajas y el Pantano de Peñarroya. En primavera, el exuberante colorido de una abundante y variada vegetación recibe a un innumerable número de aves acuáticas. El agua alcanza en esta época su máximo caudal y fluye de una laguna a otra formando en algunos casos pequeñas cascadas.",
+      "bodas_camacho": "Quien visita la Dehesa de Navamarín y las bodegas Aldonza, visita una tierra con significativa tradición literaria. Las célebres Bodas de Camacho, relatadas en los capítulos XIX, XX, XXI de la obra 'El Quijote' de Cervantes, se celebraron en Munera. Hay varios estudios y casualidades que demuestran que los protagonistas, Camacho el Rico, Basilio el Pobre y La Bella Quiteria, eran de esta villa. Todavía se conserva en el municipio la hospedería donde sucedió este episodio, convertido hoy en un bonito Hostal en el que puedes degustar los productos Aldonza.",
+      "molino": "En honor a una de las protagonistas de este famoso episodio, se mandó construir en 1975 el Molino de la Bella Quiteria. Hoy en día, alberga en su interior un museo de mobiliario y menaje típico de La Mancha. Turismo rural situado dentro de la ruta-vía cervantina preferente.",
+      "museo_munera": "Además, Munera también cuenta con el Museo Foto-Etnológico. Se trata de un antiguo molino de viento, construido en 1.861 y donado al Ayuntamiento para convertirlo en museo. Increíble, la sensación de pasear entre los clásicos molinos de viento de La Mancha.",
+      "legado": "La ruta cervantina no pasa por alto los espacios históricos situados en plena Sierra de Alcaraz y Campos de Montiel. El yacimiento arqueológico de Libisosa y el Museo Etnográfico de Tiriez, ubicados en el término de Lezuza, también forman parte de la historia de nuestras plantaciones y de la cultura manchega.",
+      "libisosa": "El Yacimiento Arqueológico de Libisosa esconde en diez hectáreas de terreno más de 2.800 años de historia. Ubicadas en el paraje de Lezuza conocido como el Cerro del Castillo, estas excavaciones se han convertido en uno de los enclaves más importantes de Castilla-La Mancha. Están ubicadas entre las cuencas de los ríos Guadiana y Júcar, terrenos con abundantes recursos hídricos, cinegéticos y forestales.",
+      "tiriez": "El Museo Etnográfico de Tiriez está situado en esta pedanía, situada dentro del término municipal de Lezuza, en la provincia de Albacete. Se trata de un Ecomuseo que recrea edificios históricos y el entorno cultural de la comarca en la que se encuentran las instalaciones de Aldonza.",
+      "legado_catalan": "Aldonza amplió su cartera de negocio incorporando el cava y lo hace porque existe un destacado vínculo entre Don Quijote de La Mancha y Cataluña. Ocho capítulos de su aventura transcurren en territorio catalán, siendo los más representativos 'La venida a Cataluña y el encuentro de los bandoleros', 'La visión del mar y el puerto' y 'La capital catalana'."
+    },
+    "escucha": {
+      "titulo": "Escucha Aldonza",
+      "intro_pregunta": "¿Qué necesitas para sentir y escuchar Aldonza?",
+      "tip_volumen": "Apetito para disfrutar y descubrir nuevas sensaciones a través de la música. ¡Activa el sonido y deja el volumen a tu gusto!",
+      "tip_cascos": "Tú eliges vivir la experiencia solo o en compañía. Las dos opciones son válidas para sumergirte en la experiencia auditiva que te propone Aldonza.",
+      "tip_dados": "¿Sabías que el sonido es un ingrediente que mejora las experiencias gastronómicas? Déjate llevar por la play list de Aldonza e intensifica cada sabor.",
+      "cta": "¿Preparado? Estás a un clic de sumergirte en una experiencia que hará único este momento. Distintos ambientes elegidos especialmente para ti.",
+      "redes": "¡Queremos que disfrutes de cada #ExperienciaAldonza pero, sobre todo, que la compartas con nosotros! Te esperamos en nuestras redes sociales."
+    }
+  },
+  "contacto": {
+    "concertar_visita": "También puedes concertar tu visita por teléfono o email:",
+    "politica_proteccion": "Política de protección de datos",
+    "size_max": "El tamaño máximo son 2MB"
+  },
+  "common": {
+    "footer_copyright": "Todos los derechos reservados.",
+    "direccion": "Crta. N-430 Km 462,3 · 02612 Munera (Albacete) · España",
+    "telefono": "(+34) 967 21 77 11",
+    "telefono_2": "(+34) 660 634 959",
+    "email": "info{'@'}aldonzagourmet.com"
+  }
+}

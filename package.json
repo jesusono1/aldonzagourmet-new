@@ -12,13 +12,17 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxtjs/i18n": "^10.2.4",
     "nuxt": "^4.4.2"
   },
   "devDependencies": {
+    "@fontsource/montserrat": "^5.2.8",
+    "@fontsource/yeseva-one": "^5.2.7",
     "@nuxt/eslint": "^1.15.2",
     "@tailwindcss/vite": "^4.2.2",
     "eslint": "^9.39.4",
     "eslint-config-prettier": "^10.1.8",
+    "lucide-vue-next": "^1.0.0",
     "prettier": "^3.8.1",
     "tailwindcss": "^4.2.2",
     "typescript": "^6.0.2",
