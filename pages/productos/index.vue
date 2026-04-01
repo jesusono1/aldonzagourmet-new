@@ -1,8 +1,12 @@
 <template>
   <div>
     <section class="py-20 px-4 max-w-5xl mx-auto">
-      <h1 class="font-display text-4xl text-burgundy-900 mb-6">Nuestros Productos</h1>
-      <p class="font-body text-lg text-gray-700">Vinos, aceite, azafrán, cava y queso manchego DOP.</p>
+      <h1 class="font-display text-4xl text-burgundy-900 mb-6">{{ $t('nav.productos') }}</h1>
+      <p class="font-body text-lg text-gray-700">{{ $t('productos.intro_general') }}</p>
     </section>
   </div>
 </template>
+
+<script setup lang="ts">
+usePageSeo('meta.productos.title', 'meta.productos.description')
+</script>

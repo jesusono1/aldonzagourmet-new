@@ -12,7 +12,13 @@ export default defineNuxtConfig({
   modules: [
     '@nuxt/eslint',
     '@nuxtjs/i18n',
+    '@nuxtjs/sitemap',
   ],
+
+  site: {
+    url: 'https://aldonzagourmet.com',
+    name: 'Aldonza Gourmet',
+  },
 
   i18n: {
     locales: [

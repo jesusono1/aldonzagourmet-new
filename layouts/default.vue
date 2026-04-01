@@ -49,4 +49,6 @@
 <script setup lang="ts">
 const { locale, locales } = useI18n()
 const switchLocalePath = useSwitchLocalePath()
+
+useOrganizationSchema()
 </script>

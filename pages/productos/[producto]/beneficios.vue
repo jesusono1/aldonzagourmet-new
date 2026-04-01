@@ -9,4 +9,7 @@
 
 <script setup lang="ts">
 const route = useRoute()
+const producto = route.params.producto as string
+
+usePageSeo(`meta.beneficios_${producto}.title`, `meta.beneficios_${producto}.description`)
 </script>
